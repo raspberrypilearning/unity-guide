@@ -14,7 +14,7 @@ Visit [unity.com/download](https://unity.com/download) and click the link to dow
 
 Open **Unity Hub** if it does not open automatically. You will be presented with a screen to **Install Unity Editor**. Click the button to **Install Unity Editor**.
 
-![splash screen with a button at the bottom to Install Unity Editor](images/install_editor_install)
+![splash screen with a button at the bottom to Install Unity Editor](images/install_editor_install.png)
 
 The install process will take some time.
 
@@ -24,7 +24,7 @@ The install process will take some time.
 
 Once Unity Hub has finished installing the Unity Editor, you should find it in your application launcher for your operating system.
 
-[Windows application launcher with Unity shown](images/install_application_launcher.png)
+![Windows application launcher with Unity shown](images/install_application_launcher.png)
 
 --- /task ---
 
