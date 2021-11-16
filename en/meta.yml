@@ -1,11 +1,9 @@
-title: unity-guide
+title: A guide to Unity
 hero_image: images/banner.png
-description: unity-guide description
+description: The basics of using the Unity editor
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-11-16"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Install Unity
