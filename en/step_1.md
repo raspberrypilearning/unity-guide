@@ -4,7 +4,7 @@ If Unity is **not already installed** on your computer, then you will need to do
 
 --- task ---
 
-Visit [unity.com/download](https://unity.com/download) and click the link to download **for **your** operating system.
+Visit [unity.com/download](https://unity.com/download) and click the link to download for **your** operating system.
 
 ![the download for links shown for Windows, Mac and Linux](images/install_download_links.png)
 
