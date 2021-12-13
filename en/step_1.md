@@ -1,6 +1,8 @@
-## Install Unity
+## Installing Unity
 
-If Unity is **not already installed** on your computer, then you will need to download and install the software.
+### Install the Unity Editor
+
+If the Unity Editor is **not already installed** on your computer, then you will need to download and install the software.
 
 --- task ---
 
@@ -29,6 +31,8 @@ Once Unity Hub has finished installing the Unity Editor, you should find it in y
 --- /task ---
 
 To write code for Unity you will need a code editor. Many different code editors can be used, but Visual Studio Community Edition is probably the easiest to install and use.
+
+### Install Visual Studio
 
 --- task ---
 
