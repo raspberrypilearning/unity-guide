@@ -1,6 +1,6 @@
 ## Installing Unity
 
-### Tnstall the Unity Editor
+### Install the Unity Editor
 
 If the Unity Editor is **not already installed** on your computer, then you will need to download and install the software.
 
