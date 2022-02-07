@@ -6,4 +6,7 @@ listed: false
 copyedit: false
 last_tested: "2021-11-16"
 steps:
+  - title: Accounts overview
   - title: Install Unity
+  - title: Install Visual Studio
+  - title: Our Unity projects

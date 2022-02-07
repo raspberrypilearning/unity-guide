@@ -1,65 +1,23 @@
-## Installing Unity
+## Accounts overview
 
-### Install the Unity Editor
+### Unity personal accounts
 
-If the Unity Editor is **not already installed** on your computer, then you will need to download and install the software.
+Unity is free to use, however, to use Unity on a personal computer you do need to have a Unity account. The account can be created during the process of installing the Unity hub. 
 
---- task ---
+### Unity Education Grant License
 
-Visit [unity.com/download](https://unity.com/download) and click the link to download the version for **your** operating system.
+The Unity Education Grant License is free for accredited not-for-profit and academic institutions and provides a multi-user license to use in classrooms and clubs. The license is valid for one year and can be renewed annually. 
 
-![The 'download for' links shown for Windows, Mac, and Linux.](images/install_download_links.png)
+If you are in a non-profit educational institution then you may be eligible for a free [Unity education grant license](https://unity.com/products/unity-education-grant-license){:target="_blank"}.
 
---- /task ---
+You can find information on [network installation](https://support.unity.com/hc/en-us/articles/205816249-How-do-I-activate-my-Educational-license-){:target="_blank"} of an educational license.
 
---- task ---
+### Visual Studio Community Edition accounts
 
-Open **Unity Hub** if it does not open automatically. You will be presented with a screen to **Install Unity Editor**. Click the button to **Install Unity Editor**.
+[Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/]){:target="_blank"} is a free code editor from Microsoft with Unity integration. 
 
-![Splash screen with a button at the bottom to 'Install Unity Editor'.](images/install_editor_install.png)
+You can download and install Visual Studio Community Edition for a trial period after which you will need to sign in with a Microsoft account, see [Sign in to Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/signing-in-to-visual-studio). School Microsoft accounts can be used where appropriate. 
 
-The install process will take some time.
+Younger people may need approval from a legal guardian to create an account. 
 
---- /task ---
-
---- task ---
-
-Once Unity Hub has finished installing the Unity Editor, you should find it in your application launcher for your operating system.
-
-![Windows application launcher with Unity shown.](images/install_application_launcher.png)
-
---- /task ---
-
-To write code for Unity you will need a code editor. Many different code editors can be used, but Visual Studio Community Edition is probably the easiest to install and use.
-
-### Install Visual Studio
-
---- task ---
-
-In Unity Hub, select **Installs** from the menu on the left, and then click on the gear icon to the right of your Unity version and select **Add modules**.
-
-![Unity Hub shown with options selected.](images/unity-add-modules.png)
-
-Make sure the checkbox next to Microsoft Visual Studio Community has been checked, and then click the **Continue** button.
-
-![Unity Hub with a check next to Visual Studio.](images/unity-install-vs.png)
-
---- /task ---
-
---- task ---
-
-Read the licensing terms and then if you agree, check the box and click the **Install** button.
-
-![License agreement checked for Visual Studio.](images/unity-vs-license.png)
-
---- /task ---
-
---- task --- 
-
-Once the installation of Visual Studio has completed **restart your computer**, then open Unity. Click on **Edit** and then choose **Preferences** from the menu.
-
-In the menu on the left, select **External Tools** and in the drop-down menu for **External Script Editor** choose **Visual Studio 2019**.
-
-![Preferences menu with Visual Studio chosen as the script editor.](images/unity-editor-select.png)
-
---- /task ---
+If you cannot create Microsoft accounts then other code editors can be used. 
