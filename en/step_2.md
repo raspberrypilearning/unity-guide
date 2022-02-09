@@ -1,46 +1,23 @@
-## Install Unity
+## Accounts overview
 
-### Install the Unity Editor
+### Unity personal accounts
 
-If the Unity Editor is **not already installed** on your computer, then you will need to download it and install the software.
+Unity is free to use, however, to use Unity on a personal computer you do need to have a Unity account. The account can be created during the process of installing the Unity hub. 
 
---- task ---
+### Unity Education Grant License
 
-Visit [unity.com/download](https://unity.com/download){:target="_blank"} and click the link to download the version for **your** operating system.
+The Unity Education Grant License is free for accredited not-for-profit and academic institutions and provides a multi-user license to use in classrooms and clubs. The license is valid for one year and can be renewed annually. 
 
-![The 'download for' links shown for Windows, Mac, and Linux.](images/install_download_links.png)
+If you are in a non-profit educational institution then you may be eligible for a free [Unity education grant license](https://unity.com/products/unity-education-grant-license){:target="_blank"}.
 
---- /task ---
+You can find information on [network installation](https://support.unity.com/hc/en-us/articles/205816249-How-do-I-activate-my-Educational-license-){:target="_blank"} of an educational license.
 
---- task ---
-Open **Unity Hub** if it does not open automatically.
+### Visual Studio Community Edition accounts
 
-You will be prompted to 'Sign In' or 'Create account'.
+[Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/]){:target="_blank"} is a free code editor from Microsoft with Unity integration. 
 
-If you are using an education grant education license then enter the ID you have been provided with.
+You can download and install Visual Studio Community Edition for a trial period after which you will need to sign in with a Microsoft account, see [Sign in to Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/signing-in-to-visual-studio). School Microsoft accounts can be used where appropriate. 
 
-If you are using a personal Unity ID then use your existing details or create a new account.
+Younger people may need approval from a legal guardian to create an account. 
 
-Creating a Unity account has different age eligibility criteria in different countries. 
-
-Please check the [Unity Terms of Service](https://unity3d.com/legal/terms-of-service){:target="_blank"} for further details. 
-
---- /task ---
-
---- task ---
-
- You will be presented with a screen to **Install Unity Editor**. Click the button to **Install Unity Editor**.
-
-![Splash screen with a button at the bottom to 'Install Unity Editor'.](images/install_editor_install.png)
-
-The install process will take some time.
-
---- /task ---
-
---- task ---
-
-Once Unity Hub has finished installing the Unity Editor, you should find it in your application launcher for your operating system.
-
-![Windows application launcher with Unity shown.](images/install_application_launcher.png)
-
---- /task ---
+If you cannot create Microsoft accounts then other code editors can be used. 

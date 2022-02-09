@@ -1,23 +1,9 @@
-## Accounts overview
+## A guide to Unity
 
-### Unity personal accounts
+Unity is a development environment for making games, virtual environments, visual novels, digital animations, and more. You can use Unity to develop 2D and 3D cross-platform games for PCs, consoles, mobile devices, and the internet.
 
-Unity is free to use, however, to use Unity on a personal computer you do need to have a Unity account. The account can be created during the process of installing the Unity hub. 
+Unity is a hugely popular development professional tool that is free for anyone to use and offers cross-platform support for building projects for desktop, mobile, web and consoles.
 
-### Unity Education Grant License
+Unity uses the C# programming language, which is used by professional software developers. 
 
-The Unity Education Grant License is free for accredited not-for-profit and academic institutions and provides a multi-user license to use in classrooms and clubs. The license is valid for one year and can be renewed annually. 
-
-If you are in a non-profit educational institution then you may be eligible for a free [Unity education grant license](https://unity.com/products/unity-education-grant-license){:target="_blank"}.
-
-You can find information on [network installation](https://support.unity.com/hc/en-us/articles/205816249-How-do-I-activate-my-Educational-license-){:target="_blank"} of an educational license.
-
-### Visual Studio Community Edition accounts
-
-[Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/]){:target="_blank"} is a free code editor from Microsoft with Unity integration. 
-
-You can download and install Visual Studio Community Edition for a trial period after which you will need to sign in with a Microsoft account, see [Sign in to Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/signing-in-to-visual-studio). School Microsoft accounts can be used where appropriate. 
-
-Younger people may need approval from a legal guardian to create an account. 
-
-If you cannot create Microsoft accounts then other code editors can be used. 
+This guide to Unity takes you through setting up Unity and accessing our Unity projects. 
