@@ -6,4 +6,9 @@ listed: false
 copyedit: false
 last_tested: "2021-11-16"
 steps:
+  - title: Unity guide
+  - title: Accounts overview
   - title: Install Unity
+  - title: Install Visual Studio
+  - title: Useful resources
+  - title: Our Unity projects
