@@ -14,7 +14,7 @@ You can find information on [network installation](https://support.unity.com/hc/
 
 ### Visual Studio Community Edition accounts
 
-[Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/]){:target="_blank"} is a free code editor from Microsoft with Unity integration. 
+[Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/){:target="_blank"} is a free code editor from Microsoft with Unity integration. 
 
 You can download and install Visual Studio Community Edition for a trial period after which you will need to sign in with a Microsoft account, see [Sign in to Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/signing-in-to-visual-studio). School Microsoft accounts can be used where appropriate. 
 
