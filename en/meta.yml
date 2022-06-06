@@ -1,14 +1,15 @@
+---
 title: A guide to Unity
 hero_image: images/banner.png
 description: The basics of using the Unity Editor
 version: 4
 listed: false
 copyedit: false
-last_tested: "2021-11-16"
+last_tested: '2021-11-16'
 steps:
-  - title: Unity guide
-  - title: Accounts overview
-  - title: Install Unity
-  - title: Install Visual Studio
-  - title: Useful resources
-  - title: Our Unity projects
+- title: Unity guide
+- title: Accounts overview
+- title: Install Unity
+- title: Install Visual Studio
+- title: Useful resources
+- title: Our Unity projects
