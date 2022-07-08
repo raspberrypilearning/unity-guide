@@ -12,7 +12,9 @@ Visit [unity.com/download](https://unity.com/download){:target="_blank"} and cli
 
 --- /task ---
 
---- task --- Open **Unity Hub** if it does not open automatically.
+--- task ---
+
+Open **Unity Hub** if it does not open automatically.
 
 You will be prompted to 'Sign In' or 'Create account'.
 
