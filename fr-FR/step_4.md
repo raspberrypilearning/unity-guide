@@ -1,39 +1,39 @@
-## Install Visual Studio
+## Installer Visual Studio
 
-Unity uses the C# programming language, which is used by professional software developers. To write code for Unity you will need to add an external code editor.
+Unity utilise le langage de programmation C# qui est utilisé par les développeurs de logiciels professionnels. Pour écrire du code pour Unity, tu devras ajouter un éditeur de code externe.
 
-Many different code editors can be used but the recommended editor is Microsoft Visual Studio. It integrates well with the Unity editor by providing helpful debugging and completing code to reduce typing and errors.
+De nombreux éditeurs de code différents peuvent être utilisés, mais l'éditeur recommandé est Microsoft Visual Studio. Il s'intègre bien à l'éditeur Unity en fournissant un débogage utile et en complétant le code pour réduire la saisie et les erreurs.
 
 --- task ---
 
-In Unity Hub, select **Installs** from the menu on the left, and then click on the gear icon to the right of your Unity version and select **Add modules**.
+Dans Unity Hub, sélectionne **Installs** dans le menu de gauche, puis clique sur l'icône d'engrenage à droite de ta version Unity et sélectionne **Add modules**.
 
-![Unity Hub shown with options selected.](images/unity-add-modules.png)
+![Unity Hub affiché avec les options sélectionnées.](images/unity-add-modules.png)
 
-Make sure the checkbox next to Microsoft Visual Studio Community has been checked, and then click the **Continue** button.
+Assure-toi que la case à côté de Microsoft Visual Studio Community a été cochée, puis clique sur le bouton **Continue**.
 
-![Unity Hub with a check next to Visual Studio.](images/unity-install-vs.png)
+![Unity Hub avec une coche à côté de Visual Studio.](images/unity-install-vs.png)
 
 --- /task ---
 
 --- task ---
 
-Read the licensing terms and then if you agree, check the box and click the **Install** button.
+Lis les conditions de la licence puis, si tu es d'accord, coche la case et clique sur le bouton **Install**.
 
-![License agreement checked for Visual Studio.](images/unity-vs-license.png)
+![Contrat de licence vérifié pour Visual Studio.](images/unity-vs-license.png)
 
 --- /task ---
 
 --- task ---
 
-Once the installation of Visual Studio has completed **restart your computer**, then open Unity. Click on **Edit** and then choose **Preferences** from the menu.
+Une fois l'installation de Visual Studio terminée, tu devras **redémarrer ton ordinateur**, puis ouvrir ton projet Unity. Clique sur **Edit** puis choisis **Preferences** dans le menu.
 
-In the menu on the left, select **External Tools** and in the drop-down menu for **External Script Editor** choose **Visual Studio 2019**.
+Dans le menu de gauche, sélectionne **External Tools** et dans le menu déroulant pour **External Script Editor** choisis **Visual Studio 2019**.
 
-![Preferences menu with Visual Studio chosen as the script editor.](images/unity-editor-select.png)
+![Menu Preferences avec Visual Studio choisi comme éditeur de script.](images/unity-editor-select.png)
 
 --- /task ---
 
-Further information:
+Informations complémentaires :
 + [Unity tutorial: Get Started with Visual Studio and Unity](https://learn.unity.com/tutorial/get-started-with-visual-studio-and-unity#){:target="_blank"}
 + [Unity tutorial: Set your default script editor](https://learn.unity.com/tutorial/set-your-default-script-editor-ide){:target="_blank"}
