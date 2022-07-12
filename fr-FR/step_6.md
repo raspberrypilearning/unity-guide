@@ -1,4 +1,4 @@
-## Our Unity projects
+## Nos projets Unity
 
-Our [Introduction to Unity: 3D Objects, Character Controllers, Colliders, Text and Buttons](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} path has six projects to help you learn different skills in Unity in order to create your own project independently. 
+Notre parcours [Introduction à Unity : objets 3D, contrôleurs de personnages, colliders, texte et boutons](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} comprend six projets pour t'aider à acquérir différentes compétences dans Unity afin de créer ton propre projet de manière indépendante. 
 
