@@ -1,6 +1,6 @@
-## Useful resources
+## Ressources utiles
 
-Our projects take you through creating projects and importing assets but you may find these resources useful for additional information or preparation.
+Nos projets te guident tout au long de la création de projets et de l'importation de ressources, mais tu peux trouver ces ressources utiles pour obtenir des informations supplémentaires ou une préparation.
 
 + [Explore the Unity Editor](https://learn.unity.com/tutorial/explore-the-unity-editor-1){:target="_blank"}
 + [Project setup processes](https://learn.unity.com/tutorial/project-setup-processes){:target="_blank"}
