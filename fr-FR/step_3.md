@@ -1,50 +1,50 @@
-## Install Unity
+## Installer Unity
 
-### Install the Unity Editor
+### Installer l'éditeur Unity
 
-If the Unity Editor is **not already installed** on your computer, then you will need to download it and install the software.
+Si l'éditeur Unity n'est **pas déjà installé** sur ton ordinateur, tu devras le télécharger et l'installer.
 
 --- task ---
 
-Visit [unity.com/download](https://unity.com/download){:target="_blank"} and click the link to download the version for **your** operating system.
+Visite [unity.com/download](https://unity.com/download){:target="_blank"} et clique sur le lien pour télécharger la version pour **ton** système d'exploitation.
 
-![The 'download for' links shown for Windows, Mac, and Linux.](images/install_download_links.png)
+![Les liens "download for" affichés pour Windows, Mac et Linux.](images/install_download_links.png)
 
 --- /task ---
 
 --- task ---
 
-Open **Unity Hub** if it does not open automatically.
+Ouvre **Unity Hub** s'il ne s'ouvre pas automatiquement.
 
-You will be prompted to 'Sign In' or 'Create account'.
+Tu seras invité à « Connexion » ou « Créer un compte ».
 
-If you are using an education grant education license then enter the ID you have been provided with.
+Si tu utilises une licence Education Grant, saisis l'identifiant qui t'a été fourni.
 
-If you are using a personal Unity ID then use your existing details or create a new account.
+Si tu utilises un identifiant Unity personnel, utilise tes informations existantes ou crée un nouveau compte.
 
-Creating a Unity account has different age eligibility criteria in different countries.
+La création d'un compte Unity a des critères d'éligibilité différents selon les pays.
 
-Please check the [Unity Terms of Service](https://unity3d.com/legal/terms-of-service){:target="_blank"} for further details.
-
---- /task ---
-
---- task ---
-
- You will be presented with a screen to **Install Unity Editor**. Click the button to **Install Unity Editor**.
-
-![Splash screen with a button at the bottom to 'Install Unity Editor'.](images/install_editor_install.png)
-
-The install process will take some time.
+Consulte les [Conditions d'utilisation d'Unity](https://unity3d.com/legal/terms-of-service){:target="_blank"} pour plus de détails.
 
 --- /task ---
 
 --- task ---
 
-Once Unity Hub has finished installing the Unity Editor, you should find it in your application launcher for your operating system.
+ Un écran **Install Unity Editor** s'affichera. Clique sur le bouton pour **Install Unity Editor**.
 
-![Windows application launcher with Unity shown.](images/install_application_launcher.png)
+![Écran de démarrage avec un bouton en bas pour "Install Unity Editor".](images/install_editor_install.png)
+
+Le processus d'installation prendra un certain temps.
 
 --- /task ---
 
-Further information:
+--- task ---
+
+Une fois que Unity Hub a terminé l'installation de Unity Editor, tu devrais le trouver dans le lanceur d'applications de ton système d'exploitation.
+
+![Lanceur d'applications Windows avec Unity affiché.](images/install_application_launcher.png)
+
+--- /task ---
+
+Informations complémentaires :
 + [Unity Tutorial: Install the Unity Hub and Editor](https://learn.unity.com/tutorial/install-the-unity-hub-and-editor){:target="_blank"}
