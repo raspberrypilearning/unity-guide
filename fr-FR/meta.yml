@@ -1,21 +1,21 @@
 ---
-title: A guide to Unity
+title: Un guide pour Unity
 hero_image: images/banner.png
-description: The basics of using the Unity Editor
+description: Les bases de l'utilisation de l'éditeur Unity
 version: 4
 listed: false
 copyedit: false
 last_tested: '2021-11-16'
 steps:
   - 
-    title: Unity guide
+    title: Guide de Unity
   - 
-    title: Accounts overview
+    title: Aperçu des comptes
   - 
-    title: Install Unity
+    title: Installer Unity
   - 
-    title: Install Visual Studio
+    title: Installer Visual Studio
   - 
-    title: Useful resources
+    title: Ressources utiles
   - 
-    title: Our Unity projects
+    title: Nos projets Unity
