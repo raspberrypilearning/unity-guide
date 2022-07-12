@@ -1,9 +1,9 @@
-## A guide to Unity
+## Un guide pour Unity
 
-Unity is a development environment for making games, virtual environments, visual novels, digital animations, and more. You can use Unity to develop 2D and 3D cross-platform games for PCs, consoles, mobile devices, and the internet.
+Unity est un environnement de développement pour créer des jeux, des environnements virtuels, des romans visuels, des animations numériques, et plus encore. Tu peux utiliser Unity pour développer des jeux multiplateformes 2D et 3D pour PC, consoles, appareils mobiles et Internet.
 
-Unity is a hugely popular development professional tool that is free for anyone to use and offers cross-platform support for building projects for desktop, mobile, web and consoles.
+Unity est un outil professionnel de développement très populaire qui est gratuit pour tout le monde et qui offre un support multi-plateforme pour la construction de projets pour le bureau, mobile, web et consoles.
 
-Unity uses the C# programming language, which is used by professional software developers.
+Unity utilise le langage de programmation C# qui est utilisé par les développeurs de logiciels professionnels.
 
-This guide to Unity takes you through setting up Unity and accessing our Unity projects. 
+Ce guide sur Unity te permet de configurer Unity et d'accéder à nos projets Unity. 
