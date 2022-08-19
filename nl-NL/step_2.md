@@ -1,23 +1,23 @@
-## Accounts overview
+## Overzicht van de verschillende Unity accounts
 
-### Unity personal accounts
+### Unity persoonlijke accounts
 
-Unity is free to use, however, to use Unity on a personal computer you do need to have a Unity account. The account can be created during the process of installing the Unity hub.
+Unity is gratis te gebruiken, maar om Unity op een pc te gebruiken, heb je wel een Unity-account nodig. Het account kan worden aangemaakt tijdens het installeren van de Unity-hub.
 
-### Unity Education Grant License
+### Unity Education Grant-licentie
 
-The Unity Education Grant License is free for accredited not-for-profit and academic institutions and provides a multi-user license to use in classrooms and clubs. The license is valid for one year and can be renewed annually.
+De Unity Education Grant-licentie is gratis voor geaccrediteerde non-profit en academische instellingen en biedt een licentie voor meerdere gebruikers voor gebruik in klaslokalen en clubs. De licentie is één jaar geldig en kan jaarlijks worden verlengd.
 
-If you are in a non-profit educational institution then you may be eligible for a free [Unity education grant license](https://unity.com/products/unity-education-grant-license){:target="_blank"}.
+Als je in een non-profit onderwijsinstelling zit, kom je mogelijk in aanmerking voor een gratis [Unity education Grant license](https://unity.com/products/unity-education-grant-license){:target="_blank"}.
 
-You can find information on [network installation](https://support.unity.com/hc/en-us/articles/205816249-How-do-I-activate-my-Educational-license-){:target="_blank"} of an educational license.
+Je kunt informatie vinden over [network installatie](https://support.unity.com/hc/en-us/articles/205816249-How-do-I-activate-my-Educational-license-){:target="_blank"} van een educatieve licentie.
 
-### Visual Studio Community Edition accounts
+### Visual Studio Community Edition-accounts
 
-[Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/){:target="_blank"} is a free code editor from Microsoft with Unity integration.
+[Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/){:target="_blank"} is een gratis code-editor van Microsoft met Unity-integratie.
 
-You can download and install Visual Studio Community Edition for a trial period after which you will need to sign in with a Microsoft account, see [Sign in to Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/signing-in-to-visual-studio). School Microsoft accounts can be used where appropriate.
+Je kunt Visual Studio Community Edition downloaden en installeren voor een proefperiode waarna je je moet aanmelden met een Microsoft-account, zie [Sign in to Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/signing-in-to-visual-studio). School Microsoft-accounts kunnen waar nodig worden gebruikt.
 
-Younger people may need approval from a legal guardian to create an account.
+Jongere mensen hebben mogelijk toestemming van een wettelijke voogd nodig om een account te maken.
 
-If you cannot create Microsoft accounts then other code editors can be used. 
+Als u geen Microsoft-accounts kunt maken, kunnen andere code-editors worden gebruikt. 
