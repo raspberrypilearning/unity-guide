@@ -1,39 +1,39 @@
-## Install Visual Studio
+## Installeer Visual Studio
 
-Unity uses the C# programming language, which is used by professional software developers. To write code for Unity you will need to add an external code editor.
+Unity gebruikt de programmeertaal C#, die wordt gebruikt door professionele software-ontwikkelaars. Om code te schrijven voor Unity moet je een externe code-editor toevoegen.
 
-Many different code editors can be used but the recommended editor is Microsoft Visual Studio. It integrates well with the Unity editor by providing helpful debugging and completing code to reduce typing and errors.
+Er kunnen veel verschillende code-editors worden gebruikt, maar de aanbevolen editor is Microsoft Visual Studio. Het integreert goed met de Unity editor door het verstrekken van handige debugging en het voltooien van code om typen en fouten te verminderen.
 
 --- task ---
 
-In Unity Hub, select **Installs** from the menu on the left, and then click on the gear icon to the right of your Unity version and select **Add modules**.
+Selecteer in Unity Hub **installs** in het menu aan de linkerkant, en klik vervolgens op het tandwielpictogram rechts van de Unity-versie en selecteer **Add modules**.
 
-![Unity Hub shown with options selected.](images/unity-add-modules.png)
+![Unity Hub wordt weergegeven met opties geselecteerd.](images/unity-add-modules.png)
 
-Make sure the checkbox next to Microsoft Visual Studio Community has been checked, and then click the **Continue** button.
+Zorg ervoor dat het selectievakje naast Microsoft Visual Studio Community is ingeschakeld en klik vervolgens op de knop **Continue**.
 
-![Unity Hub with a check next to Visual Studio.](images/unity-install-vs.png)
+![Unity Hub met een vinkje naast Visual Studio.](images/unity-install-vs.png)
 
 --- /task ---
 
 --- task ---
 
-Read the licensing terms and then if you agree, check the box and click the **Install** button.
+Lees de licentievoorwaarden en vink het selectievakje aan als je akkoord gaat en klik op de knop **install**.
 
-![License agreement checked for Visual Studio.](images/unity-vs-license.png)
+![Licentieovereenkomst gecontroleerd voor Visual Studio.](images/unity-vs-license.png)
 
 --- /task ---
 
 --- task ---
 
-Once the installation of Visual Studio has completed **restart your computer**, then open Unity. Click on **Edit** and then choose **Preferences** from the menu.
+Zodra de installatie van Visual Studio is voltooid **herstart je computer** en open je Unity. Klik op **Edit** en kies vervolgens **Preferences** in het menu.
 
-In the menu on the left, select **External Tools** and in the drop-down menu for **External Script Editor** choose **Visual Studio 2019**.
+Selecteer in het menu aan de linkerkant **External Tools** en kies in het vervolgkeuzemenu voor **External Script Editor** **Visual Studio Community 2019**.
 
-![Preferences menu with Visual Studio chosen as the script editor.](images/unity-editor-select.png)
+![Preferences menu met Visual Studio gekozen als script editor.](images/unity-editor-select.png)
 
 --- /task ---
 
-Further information:
-+ [Unity tutorial: Get Started with Visual Studio and Unity](https://learn.unity.com/tutorial/get-started-with-visual-studio-and-unity#){:target="_blank"}
-+ [Unity tutorial: Set your default script editor](https://learn.unity.com/tutorial/set-your-default-script-editor-ide){:target="_blank"}
+Meer informatie:
++ [Unity tutorial: Begin met Visual Studio en Unity](https://learn.unity.com/tutorial/get-started-with-visual-studio-and-unity#){:target="_blank"}
++ [Unity tutorial: Stel je standaard scripteditor in](https://learn.unity.com/tutorial/set-your-default-script-editor-ide){:target="_blank"}
