@@ -1,9 +1,9 @@
-## A guide to Unity
+## Een handleiding voor Unity
 
-Unity is a development environment for making games, virtual environments, visual novels, digital animations, and more. You can use Unity to develop 2D and 3D cross-platform games for PCs, consoles, mobile devices, and the internet.
+Unity is een ontwikkelomgeving voor het maken van games, virtuele omgevingen, visuele romans, digitale animaties en meer. Je kunt Unity gebruiken om 2D en 3D cross-platform games te ontwikkelen voor pc's, consoles, mobiele apparaten en het internet.
 
-Unity is a hugely popular development professional tool that is free for anyone to use and offers cross-platform support for building projects for desktop, mobile, web and consoles.
+Unity is een enorm populair professioneel ontwikkelingsprogramma dat iedereen gratis kan gebruiken en ondersteuning biedt voor verschillende platforms voor het maken van projecten voor desktop, mobiel, web en consoles.
 
-Unity uses the C# programming language, which is used by professional software developers.
+Unity gebruikt de programmeertaal C#, die wordt gebruikt door professionele software-ontwikkelaars.
 
-This guide to Unity takes you through setting up Unity and accessing our Unity projects. 
+Deze handleiding voor Unity leidt je door het installeren van Unity en toegang tot onze Unity-projecten. 
