@@ -1,50 +1,50 @@
-## Install Unity
+## Installeer Unity
 
-### Install the Unity Editor
+### Installeer de Unity Editor
 
-If the Unity Editor is **not already installed** on your computer, then you will need to download it and install the software.
+Als de Unity Editor **nog niet is geïnstalleerd** op je computer, moet je het downloaden en de software installeren.
 
 --- task ---
 
-Visit [unity.com/download](https://unity.com/download){:target="_blank"} and click the link to download the version for **your** operating system.
+Ga naar [unity.com/download](https://unity.com/download){:target="_blank"} en klik op de link om de versie voor **je** besturingssysteem te downloaden.
 
-![The 'download for' links shown for Windows, Mac, and Linux.](images/install_download_links.png)
+![De 'download voor' links getoond voor Windows, Mac en Linux.](images/install_download_links.png)
 
 --- /task ---
 
 --- task ---
 
-Open **Unity Hub** if it does not open automatically.
+Open **Unity Hub** als deze niet automatisch wordt geopend.
 
-You will be prompted to 'Sign In' or 'Create account'.
+Je wordt gevraagd om je aan te melden of een account te maken.
 
-If you are using an education grant education license then enter the ID you have been provided with.
+Als je een onderwijslicentie gebruikt, voer dan de ID in die je hebt gekregen.
 
-If you are using a personal Unity ID then use your existing details or create a new account.
+Als je een persoonlijke Unity ID gebruikt, gebruik dan je bestaande gegevens of maak een nieuw account.
 
-Creating a Unity account has different age eligibility criteria in different countries.
+Het maken van een Unity-account heeft verschillende leeftijdscriteria in verschillende landen.
 
-Please check the [Unity Terms of Service](https://unity3d.com/legal/terms-of-service){:target="_blank"} for further details.
-
---- /task ---
-
---- task ---
-
- You will be presented with a screen to **Install Unity Editor**. Click the button to **Install Unity Editor**.
-
-![Splash screen with a button at the bottom to 'Install Unity Editor'.](images/install_editor_install.png)
-
-The install process will take some time.
+Raadpleeg de [Unity Servicevoorwaarden](https://unity3d.com/legal/terms-of-service){:target="_blank"} voor meer informatie.
 
 --- /task ---
 
 --- task ---
 
-Once Unity Hub has finished installing the Unity Editor, you should find it in your application launcher for your operating system.
+ Je krijgt een scherm met **Install Unity Editor**. Klik op de knop om **Install Unity Editor** te installeren.
 
-![Windows application launcher with Unity shown.](images/install_application_launcher.png)
+![Welkomstscherm met een knop aan de onderkant om 'Install Unity Editor' te installeren.](images/install_editor_install.png)
+
+Het installatieproces duurt enige tijd.
 
 --- /task ---
 
-Further information:
-+ [Unity Tutorial: Install the Unity Hub and Editor](https://learn.unity.com/tutorial/install-the-unity-hub-and-editor){:target="_blank"}
+--- task ---
+
+Als Unity Hub klaar is met het installeren van de Unity Editor, moet je het vinden in de applicatie-startprogramma voor je besturingssysteem.
+
+![Windows applicatie-startprogramma met Unity weergegeven.](images/install_application_launcher.png)
+
+--- /task ---
+
+Meer informatie:
++ [Unity Tutorial: Installeer de Unity Hub and Editor](https://learn.unity.com/tutorial/install-the-unity-hub-and-editor){:target="_blank"}
