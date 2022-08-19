@@ -1,0 +1,15 @@
+---
+title: Een handleiding voor Unity
+hero_image: images/banner.png
+description: De basis van het gebruik van de Unity Editor
+version: 4
+listed: false
+copyedit: false
+last_tested: '2021-11-16'
+steps:
+  - title: Unity-handleiding
+  - title: Overzicht van de verschillende Unity accounts
+  - title: Installeer Unity
+  - title: Installeer Visual Studio
+  - title: Nuttige bronnen
+  - title: Onze Unity-projecten
