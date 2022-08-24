@@ -20,4 +20,4 @@ Je kunt Visual Studio Community Edition downloaden en installeren voor een proef
 
 Jongere mensen hebben mogelijk toestemming van een wettelijke voogd nodig om een account te maken.
 
-If you cannot create Microsoft accounts then other code editors can be used. 
+Als je geen Microsoft-accounts kunt maken, kunnen andere code-editors worden gebruikt. 
