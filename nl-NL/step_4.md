@@ -1,39 +1,42 @@
-## Installeer Visual Studio
+## Install Visual Studio Code
 
 Unity gebruikt de programmeertaal C#, die wordt gebruikt door professionele software-ontwikkelaars. Om code te schrijven voor Unity moet je een externe code-editor toevoegen.
 
-Er kunnen veel verschillende code-editors worden gebruikt, maar de aanbevolen editor is Microsoft Visual Studio. Het integreert goed met de Unity editor door het verstrekken van handige debugging en het voltooien van code om typen en fouten te verminderen.
+Many different code editors can be used, and Unity recommends the full Community edition of Visual Studio, however this requires another account.
+
+Instead we would recommend [Visual Studio Code](https://code.visualstudio.com/), a free lightweight code editor from Microsoft that you can use to write code in almost any language, including C# with Unity.
 
 --- task ---
 
-Selecteer in Unity Hub **installs** in het menu aan de linkerkant, en klik vervolgens op het tandwielpictogram rechts van de Unity-versie en selecteer **Add modules**.
+Download and install [Visual Studio Code](https://code.visualstudio.com/) for your operating system.
 
-![Unity Hub wordt weergegeven met opties geselecteerd.](images/unity-add-modules.png)
+--- /task ---
 
-Zorg ervoor dat het selectievakje naast Microsoft Visual Studio Community is ingeschakeld en klik vervolgens op de knop **Continue**.
+Once you install the Visual Studio code editor you can add functionality using **Extensions**.
 
-![Unity Hub met een vinkje naast Visual Studio.](images/unity-install-vs.png)
+![The sidebar of visual studio code, the extension symbol (a square split into 4 sections, with the top left being slightly seperated) is highlighted, and two extensions; C# and Unity Code snippets are also highlighted.](images/VSCode-extensions.png)
+
+The two we recommend are:
+1. **C#** by Microsoft - this gives you code completion for the C# language
+2. **Unity Code Snippets** by Kleber Silva - will give you specific completions for Unity
+
+You can find these by opening the extensions menu is the left side bar (highlighted above) and typing the names into the search bar at the top, you can then click on the extension and click the blue **Install** button under the name.
+
+--- task ---
+
+Install the two recommended extensions, C# and Unity Code snippets.
 
 --- /task ---
 
 --- task ---
 
-Lees de licentievoorwaarden en vink het selectievakje aan als je akkoord gaat en klik op de knop **install**.
+Open Unity. Click on **Edit** and then choose **Preferences** from the menu.
 
-![Licentieovereenkomst gecontroleerd voor Visual Studio.](images/unity-vs-license.png)
+In the menu on the left, select **External Tools** and in the drop-down menu for **External Script Editor** choose **Visual Studio Code**.
 
---- /task ---
-
---- task ---
-
-Zodra de installatie van Visual Studio is voltooid **herstart je computer** en open je Unity. Klik op **Edit** en kies vervolgens **Preferences** in het menu.
-
-Selecteer in het menu aan de linkerkant **External Tools** en kies in het vervolgkeuzemenu voor **External Script Editor** **Visual Studio Community 2019**.
-
-![Preferences menu met Visual Studio gekozen als script editor.](images/unity-editor-select.png)
+![Preferences menu with Visual Studio Code chosen as the script editor.](images/unity-editor-select.png)
 
 --- /task ---
 
-Meer informatie:
-+ [Unity tutorial: Begin met Visual Studio en Unity](https://learn.unity.com/tutorial/get-started-with-visual-studio-and-unity#){:target="_blank"}
+Further information:
 + [Unity tutorial: Stel je standaard scripteditor in](https://learn.unity.com/tutorial/set-your-default-script-editor-ide){:target="_blank"}
