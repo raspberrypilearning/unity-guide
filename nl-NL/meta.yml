@@ -3,8 +3,8 @@ title: Een handleiding voor Unity
 hero_image: images/banner.png
 description: De basis van het gebruik van de Unity Editor
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: '2021-11-16'
 steps:
   - 
@@ -14,8 +14,10 @@ steps:
   - 
     title: Installeer Unity
   - 
-    title: Installeer Visual Studio
+    title: Install Visual Studio Code
   - 
     title: Nuttige bronnen
   - 
-    title: Onze Unity-projecten
+    title: Share projects
+  - 
+    title: Our Unity projects
