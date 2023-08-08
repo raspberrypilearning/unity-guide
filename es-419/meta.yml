@@ -3,8 +3,8 @@ title: A guide to Unity
 hero_image: images/banner.png
 description: The basics of using the Unity Editor
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: '2021-11-16'
 steps:
   - 
@@ -14,8 +14,10 @@ steps:
   - 
     title: Install Unity
   - 
-    title: Install Visual Studio
+    title: Install Visual Studio Code
   - 
     title: Useful resources
+  - 
+    title: Share projects
   - 
     title: Our Unity projects
