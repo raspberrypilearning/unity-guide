@@ -1,4 +1,12 @@
-## Nos projets Unity
+## Share projects
 
-Notre parcours [Introduction à Unity : objets 3D, contrôleurs de personnages, colliders, texte et boutons](https://projects.raspberrypi.org/en/pathways/unity-intro){:target="_blank"} comprend six projets pour t'aider à acquérir différentes compétences dans Unity afin de créer ton propre projet de manière indépendante. 
+Creators can build their finished project as a 'WebGL' project and upload it to a website so others can try it out.
+
+[[[webgl-setup]]]
+
+[[[webgl-build]]]
+
+[[[unity-sharing]]]
+
+They can then inspire others by submitting their project to our community gallery by completing [this form](https://form.raspberrypi.org/f/community-project-submissions){:target='_blank'}.
 
