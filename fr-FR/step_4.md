@@ -1,39 +1,42 @@
-## Installer Visual Studio
+## Install Visual Studio Code
 
 Unity utilise le langage de programmation C# qui est utilisé par les développeurs de logiciels professionnels. Pour écrire du code pour Unity, tu devras ajouter un éditeur de code externe.
 
-De nombreux éditeurs de code différents peuvent être utilisés, mais l'éditeur recommandé est Microsoft Visual Studio. Il s'intègre bien à l'éditeur Unity en fournissant un débogage utile et en complétant le code pour réduire la saisie et les erreurs.
+Many different code editors can be used, and Unity recommends the full Community edition of Visual Studio, however this requires another account.
+
+Instead we would recommend [Visual Studio Code](https://code.visualstudio.com/), a free lightweight code editor from Microsoft that you can use to write code in almost any language, including C# with Unity.
 
 --- task ---
 
-Dans Unity Hub, sélectionne **Installs** dans le menu de gauche, puis clique sur l'icône d'engrenage à droite de ta version Unity et sélectionne **Add modules**.
+Download and install [Visual Studio Code](https://code.visualstudio.com/) for your operating system.
 
-![Unity Hub affiché avec les options sélectionnées.](images/unity-add-modules.png)
+--- /task ---
 
-Assure-toi que la case à côté de Microsoft Visual Studio Community a été cochée, puis clique sur le bouton **Continue**.
+Once you install the Visual Studio code editor you can add functionality using **Extensions**.
 
-![Unity Hub avec une coche à côté de Visual Studio.](images/unity-install-vs.png)
+![The sidebar of visual studio code, the extension symbol (a square split into 4 sections, with the top left being slightly seperated) is highlighted, and two extensions; C# and Unity Code snippets are also highlighted.](images/VSCode-extensions.png)
+
+The two we recommend are:
+1. **C#** by Microsoft - this gives you code completion for the C# language
+2. **Unity Code Snippets** by Kleber Silva - will give you specific completions for Unity
+
+You can find these by opening the extensions menu is the left side bar (highlighted above) and typing the names into the search bar at the top, you can then click on the extension and click the blue **Install** button under the name.
+
+--- task ---
+
+Install the two recommended extensions, C# and Unity Code snippets.
 
 --- /task ---
 
 --- task ---
 
-Lis les conditions de la licence puis, si tu es d'accord, coche la case et clique sur le bouton **Install**.
+Open Unity. Click on **Edit** and then choose **Preferences** from the menu.
 
-![Contrat de licence vérifié pour Visual Studio.](images/unity-vs-license.png)
+In the menu on the left, select **External Tools** and in the drop-down menu for **External Script Editor** choose **Visual Studio Code**.
 
---- /task ---
-
---- task ---
-
-Une fois l'installation de Visual Studio terminée, tu devras **redémarrer ton ordinateur**, puis ouvrir ton projet Unity. Clique sur **Edit** puis choisis **Preferences** dans le menu.
-
-Dans le menu de gauche, sélectionne **External Tools** et dans le menu déroulant pour **External Script Editor** choisis **Visual Studio 2019**.
-
-![Menu Preferences avec Visual Studio choisi comme éditeur de script.](images/unity-editor-select.png)
+![Preferences menu with Visual Studio Code chosen as the script editor.](images/unity-editor-select.png)
 
 --- /task ---
 
-Informations complémentaires :
-+ [Unity tutorial: Get Started with Visual Studio and Unity](https://learn.unity.com/tutorial/get-started-with-visual-studio-and-unity#){:target="_blank"}
+Further information:
 + [Unity tutorial: Set your default script editor](https://learn.unity.com/tutorial/set-your-default-script-editor-ide){:target="_blank"}
