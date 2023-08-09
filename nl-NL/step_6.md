@@ -1,6 +1,6 @@
-## Share projects
+## Projecten delen
 
-Creators can build their finished project as a 'WebGL' project and upload it to a website so others can try it out.
+Makers kunnen hun voltooide project bouwen als een 'WebGL'-project en dit uploaden naar een website, zodat anderen het kunnen uitproberen.
 
 [[[webgl-setup]]]
 
@@ -8,5 +8,5 @@ Creators can build their finished project as a 'WebGL' project and upload it to 
 
 [[[unity-sharing]]]
 
-They can then inspire others by submitting their project to our community gallery by completing [this form](https://form.raspberrypi.org/f/community-project-submissions){:target='_blank'}.
+Ze kunnen vervolgens anderen inspireren door hun project in te dienen bij onze communitygalerij door [dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target='_blank'} in te vullen.
 
