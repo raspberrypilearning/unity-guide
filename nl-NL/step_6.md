@@ -1,11 +1,12 @@
-## Onze Unity-projecten
+## Projecten delen
 
-Ons [Introduction to Unity: 3D Objects, Character Controllers, Colliders, Text and Buttons](https://projects.raspberrypi.org/nl-NL/pathways/unity-intro){:target="_blank"} pad heeft zes projecten om je te helpen verschillende vaardigheden in Unity te leren om zelfstandig je eigen project te maken.
+Makers kunnen hun voltooide project bouwen als een 'WebGL'-project en dit uploaden naar een website, zodat anderen het kunnen uitproberen.
 
-***
-Dit project werd vertaald door vrijwilligers:
+[[[webgl-setup]]]
 
-Iny van Beuningen
-Bart Huylebroeck
+[[[webgl-build]]]
 
-Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).
+[[[unity-sharing]]]
+
+Ze kunnen vervolgens anderen inspireren door hun project in te dienen bij onze communitygalerij door [dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target='_blank'} in te vullen.
+
