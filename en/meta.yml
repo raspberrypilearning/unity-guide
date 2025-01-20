@@ -12,7 +12,7 @@ steps:
   completion:
   - engaged
 - title: Install Unity
-- title: Install Visual Studio
+- title: Install Visual Studio Code
   completion:
   - internal
 - title: Useful resources
